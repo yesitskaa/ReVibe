@@ -1,0 +1,7 @@
+{
+  "name": "ReVibe - E-Waste Sustainability Hub",
+  "description": "An AI-powered platform for circular economy in India, helping users repair, resell, or recycle their electronic devices responsibly.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
